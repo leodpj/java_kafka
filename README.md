@@ -1,4 +1,3 @@
-_markdown
 # Java Spring Boot Project + Kafka + Docker
 
 Projeto desenvolvido em Java utilizando Spring Boot e Maven.
