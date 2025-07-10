@@ -16,3 +16,6 @@ public class HelloProducer {
     }
 
 }
+// This class is responsible for sending messages to the Kafka topic "hello-topic".
+// It uses the KafkaTemplate to send messages, which is configured in the application.properties file.
+// The sendMessage method takes a String message as a parameter and sends it to the specified topic.
